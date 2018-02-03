@@ -4,6 +4,15 @@ i {
   padding-right: 15px;
 }
 
+.icon{
+  color: #333;
+  text-decoration: none;
+}
+
+.icon:hover{
+  color: #444;
+  text-decoration: none;
+}
 .grow{
   transition: all .4s ease-in-out;
 }
