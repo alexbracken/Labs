@@ -1,0 +1,13 @@
+i {
+  display: inline;
+  list-style-type: none;
+  padding-right: 15px;
+}
+
+.grow{
+  transition: all .4s ease-in-out;
+}
+
+.grow:hover{
+  transform: scale(1.1)
+}
