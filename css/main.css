@@ -9,5 +9,35 @@ i {
 }
 
 .grow:hover{
-  transform: scale(1.1)
+  transform: scale(1.1);
+}
+
+.profile{
+  max-width: 100%;
+  padding-bottom: 10%;
+}
+
+.row{
+  padding-top: 30%;
+}
+
+.content{
+  position: relative;
+}
+
+@media (min-width: 550px) {
+  .profile{padding-top: 5%}
+}
+
+@media (min-width: 750px) {
+  .content{padding-top: 10%}
+}
+
+
+@media (min-width: 1000px) {
+  .content{padding-top: 10%}
+}
+
+@media (min-width: 1200px) {
+  .content{padding-top: 13%}
 }
