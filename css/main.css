@@ -21,6 +21,16 @@ i {
   transform: scale(1.1);
 }
 
+.nav-item-grow{
+  transition: all .4s ease-in-out;
+}
+
+.nav-item-grow:hover{
+  transform: scale(1.05);
+}
+
+
+
 .profile{
   max-width: 100%;
 }
