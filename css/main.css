@@ -93,8 +93,9 @@ i {
     margin-bottom: 3%;
     background-color: #222;
     padding-left: 25px;
-    -webkit-box-shadow: 7px 7px 51px 0px rgba(0,0,0,0.53); 
-    box-shadow: 7px 7px 51px 0px rgba(0,0,0,0.53);
+    -webkit-box-shadow: 35px 33px 128px -55px rgba(0,0,0,1);
+    -moz-box-shadow: 35px 33px 128px -55px rgba(0,0,0,1);
+    box-shadow: 35px 33px 128px -55px rgba(0,0,0,1);
   }
 
 
