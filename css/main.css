@@ -46,7 +46,7 @@ i {
 }
 
 .container{
-  border-radius: 5px;
+  border-radius: 8px;
 -webkit-box-shadow: 12px 13px 48px -5px rgba(0,0,0,0.58);
 -moz-box-shadow: 12px 13px 48px -5px rgba(0,0,0,0.58);
 box-shadow: 12px 13px 48px -5px rgba(0,0,0,0.58);
