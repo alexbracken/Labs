@@ -36,7 +36,7 @@ i {
 }
 
 .main-content{
-  padding-top: 5%;
+  padding-top: 3%;
   padding-bottom: 5%;
 }
 
@@ -45,14 +45,13 @@ i {
 }
 
 .container{
-  border-style: solid;
   border-radius: 5px;
   -webkit-box-shadow: 9px 5px 31px 0px rgba(0,0,0,0.46);
   box-shadow: 9px 5px 31px 0px rgba(0,0,0,0.46);
 }
 
 .container-padding{
-  padding: 4%;
+  padding: 3%;
 }
 
 
