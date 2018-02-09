@@ -46,12 +46,13 @@ i {
 
 .container{
   border-radius: 5px;
-  -webkit-box-shadow: 9px 5px 31px 0px rgba(0,0,0,0.46);
-  box-shadow: 9px 5px 31px 0px rgba(0,0,0,0.46);
+-webkit-box-shadow: 12px 13px 48px -5px rgba(0,0,0,0.58);
+-moz-box-shadow: 12px 13px 48px -5px rgba(0,0,0,0.58);
+box-shadow: 12px 13px 48px -5px rgba(0,0,0,0.58);
 }
 
 .container-padding{
-  padding: 3%;
+  padding: 4%;
 }
 
 
